@@ -1,0 +1,5 @@
+stopping_points/*
+secrets.py
+mysecrets.py
+__pycache__/*
+*.pyc
